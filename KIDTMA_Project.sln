@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIDTMA.Data", "KIDTMA.Data\KIDTMA.Data.csproj", "{A2241C18-5A1A-4A82-8AD6-A78CFC2E7D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIDTMA_Console", "KIDTMA.UI\KIDTMA_Console.csproj", "{BC5945DB-0AAD-4023-812A-D27D854F3A71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2241C18-5A1A-4A82-8AD6-A78CFC2E7D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2241C18-5A1A-4A82-8AD6-A78CFC2E7D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2241C18-5A1A-4A82-8AD6-A78CFC2E7D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2241C18-5A1A-4A82-8AD6-A78CFC2E7D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5945DB-0AAD-4023-812A-D27D854F3A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5945DB-0AAD-4023-812A-D27D854F3A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5945DB-0AAD-4023-812A-D27D854F3A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5945DB-0AAD-4023-812A-D27D854F3A71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4352677D-DC17-48AB-A218-C60A0D333DF0}
+	EndGlobalSection
+EndGlobal
